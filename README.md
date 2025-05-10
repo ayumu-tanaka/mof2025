@@ -19,7 +19,7 @@
 - 教科書に沿って講義しますが、状況に応じて、内容や進度を変更します。
 - 講義資料を随時更新（変更・追加等）する可能性があります。
 - 講義資料は本研修のために公開しており、研修生限りとし、第３者に提供しないようにお願いします。
-
+- **参考欄**には、主として大学院レベルの内容の資料を参考までに示しています。
 
 
 
@@ -32,7 +32,7 @@
 | 5    | 5月19日（月） | 15:20～16:10      | [第7章 新・新貿易理論](slides/07新・新貿易理論.pptx)（※[新貿易理論](slides/trade2-01-new-trade-theory.pdf)も概説）                                                  | [Krugman (1980)](slides/Krugman1980.pdf); [CES 型選好](slides/CES.pdf); [新々貿易理論](slides/keio.pptx)  |
 | 6    | 5月19日（月） | 16:20～17:10      | [第8章 貿易政策（基礎編）](slides/08貿易政策_基礎編.pptx)                                                                    | [Amiti et al. (2019)](slides/Amiti2019/Amiti2019.pdf)                                                    |
 | 7    | 5月20日（火） | 15:20～16:10      | [第11章 グローバル化と格差](slides/11グローバル化と格差.pptx)                                                                   | [貿易と労働に関する最近の研究](slides/JSIE-Tanaka-50min.pptx)                                                 |
-| 8    | 5月20日（火） | 16:20～17:10      | [重力方程式](slides/trade2-03-gravity.pdf)                                                                         | [推定方法](Gravity.md)                                   |
+| 8    | 5月20日（火） | 16:20～17:10      | [重力方程式](slides/trade2-03-gravity.pdf)                                                                         | [Silva & Tenreyro (2006)](slides/LogOfGravity.pptx); [Rでの推定方法](Gravity.md)                                   | 
 
 
 
