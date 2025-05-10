@@ -5,8 +5,10 @@
 - 2025年度財政経済理論研修のための資料配布ページです。
 - 講義資料を随時更新（変更・追加等）する可能性があります。
 - 講義資料は本研修のために公開しており、研修生限りとし、第３者に提供しないようにお願いします。
-- GitHub Pages ([https://ayumu-tanaka.github.io/mof2025/](https://ayumu-tanaka.github.io/mof2025/)) からアクセスすると、資料がダウンロードしやすいです。GitHub Pagesへの展開に時間が要する関係で時差がありますが、GitHubのリポジトリ ([https://github.com/ayumu-tanaka/mof2025](https://github.com/ayumu-tanaka/mof2025)) と同じ内容です。
-
+- GitHubリポジトリ: [https://github.com/ayumu-tanaka/mof2025](https://github.com/ayumu-tanaka/mof2025)
+  - 元ファイル。常に最新。
+- GitHub Pages: [https://ayumu-tanaka.github.io/mof2025/](https://ayumu-tanaka.github.io/mof2025/)
+  - HTML形式で公開しているページ。資料をダウンロードしやすいようにしています。元ファイルと同じ内容ですが、リポジトリの更新から、数分〜数10分のタイムラグがあります。
 
 ## 成績評価
 - 試験によります。ただし、講義中の質疑応答等により加点を行います。
@@ -54,8 +56,3 @@
 
 その他、教科書巻末に文献紹介があります。
 
-
----
-
-- GitHubリポジトリ: [https://github.com/ayumu-tanaka/mof2025](https://github.com/ayumu-tanaka/mof2025)
-- GitHub Pages: [https://ayumu-tanaka.github.io/mof2025/](https://ayumu-tanaka.github.io/mof2025/)
