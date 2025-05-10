@@ -24,7 +24,7 @@
 ## 講義計画・講義内容（50分、全８回）
 
 - 教科書に沿って講義しますが、状況に応じて、内容や進度を変更します。
-- **発展欄**には、主として大学院レベルの内容の資料を参考までに示しています。
+- **発展欄**には、主として大学院レベルの内容の資料を参考までに示しています。アスタリスク（*）は試験範囲外。
 
 
 
@@ -32,10 +32,10 @@
 |------|--------------|-------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | 1    | 5月12日（月） | 15:20～16:10      | [序章 グローバル化とは](slides/00国際経済学は社会にどう役立つか.pptx)                                                                       | [Krugmanのインタビュー](slides/Paul-Krugman-How-I-Revolutionized-Trade-Theory.docx)                                    |
 | 2    | 5月12日（月） | 16:20～17:10      | [第3章 企業のグローバル化](slides/03企業のグローバル化.pptx)                                                                     | [Mayer & Ottaviano (2007)](slides/MAYER_OTTAVIANO.pptx)                                                 |
-| 3    | 5月13日（火） | 15:20～16:10      | [第4章 技術が貿易を決める：リカード・モデル](slides/04技術が貿易を決めるリカードモデルv2.pptx)                                                 | [Eaton & Korum (2002)](slides/Eaton-Kortum2002.pptx)                                | 
-| 4    | 5月13日（火） | 16:20～17:10      | [第5章 生産要素が貿易を決める：要素比率理論](slides/05生産要素が貿易を決めるv3.pptx)                                                 |  [Feenstra (2015)](FeenstraChap01.pdf)                                                 |
-| 5    | 5月19日（月） | 15:20～16:10      | [第7章 新・新貿易理論](slides/07新・新貿易理論.pptx)（※[新貿易理論](slides/trade2-01-new-trade-theory.pdf)も概説）                                                  | [Krugman (1980)](slides/Krugman1980.pdf); [CES 型選好](slides/CES.pdf); [新々貿易理論](slides/keio.pptx)  |
-| 6    | 5月19日（月） | 16:20～17:10      | [第8章 貿易政策（基礎編）](slides/08貿易政策_基礎編.pptx)                                                                    | [Amiti et al. (2019)](slides/Amiti2019/Amiti2019.pdf)                                                    |
+| 3    | 5月13日（火） | 15:20～16:10      | [第4章 技術が貿易を決める：リカード・モデル](slides/04技術が貿易を決めるリカードモデルv2.pptx)                                                 | [Eaton & Korum (2002)*](slides/Eaton-Kortum2002.pptx)                                | 
+| 4    | 5月13日（火） | 16:20～17:10      | [第5章 生産要素が貿易を決める：要素比率理論](slides/05生産要素が貿易を決めるv3.pptx)                                                 |  [Feenstra (2015)](slides/FeenstraChap01.pdf)                                                 |
+| 5    | 5月19日（月） | 15:20～16:10      | [第7章 新・新貿易理論](slides/07新・新貿易理論.pptx)（※[新貿易理論](slides/trade2-01-new-trade-theory.pdf)も概説）                                                  | [Krugman (1980)](slides/Krugman1980.pdf); [CES 型選好](slides/CES.pdf); [新々貿易理論](slides/keio01.pptx)  |
+| 6    | 5月19日（月） | 16:20～17:10      | [第8章 貿易政策（基礎編）](slides/08貿易政策_基礎編.pptx)                                                                    | [Amiti et al. (2019)](slides/Amiti2019.pdf)                                                    |
 | 7    | 5月20日（火） | 15:20～16:10      | [第11章 グローバル化と格差](slides/11グローバル化と格差.pptx)                                                                   | [貿易と労働に関する最近の研究](slides/JSIE-Tanaka-50min.pptx)                                                 |
 | 8    | 5月20日（火） | 16:20～17:10      | [重力方程式](slides/trade2-03-gravity.pdf)                                                                         | [Silva & Tenreyro (2006)](slides/LogOfGravity.pptx); [Rでの推定方法](Gravity.md)                                   | 
 
@@ -55,5 +55,7 @@
 その他、教科書巻末に文献紹介があります。
 
 
-URL: [https://github.com/ayumu-tanaka/mof2025](https://github.com/ayumu-tanaka/mof2025)
+---
 
+- GitHubリポジトリ: [https://github.com/ayumu-tanaka/mof2025](https://github.com/ayumu-tanaka/mof2025)
+- GitHub Pages: [https://ayumu-tanaka.github.io/mof2025/](https://ayumu-tanaka.github.io/mof2025/)
