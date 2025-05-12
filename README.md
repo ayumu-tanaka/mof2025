@@ -42,7 +42,7 @@
 | 7    | 5月20日（火） | 15:20～16:10      | [第11章 グローバル化と格差](slides/11グローバル化と格差.pptx)                                                                   | [貿易と労働に関する最近の研究](slides/JSIE-Tanaka-50min.pptx)                                                 |
 | 8    | 5月20日（火） | 16:20～17:10      | [重力方程式](slides/trade2-03-gravity.pdf)                                                                         | [Silva & Tenreyro (2006)](slides/LogOfGravity.pptx); [Rでの推定方法](Gravity.md)                                   | 
 
-
+※ 6月2日（月）に試験。
 
 
 ## 教科書
