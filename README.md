@@ -40,9 +40,13 @@
 | 5    | 5月19日（月） | 15:20～16:10      | [第7章 新・新貿易理論](slides/07新・新貿易理論.pptx)（※[新貿易理論](slides/trade2-01-new-trade-theory.pdf)も概説）  [解答](answers/Excercise07.pdf)                                                  | [Krugman (1980)](slides/Krugman1980.pdf); [CES 型選好](slides/CES.pdf); [新々貿易理論](slides/keio01.pptx)  |
 | 6    | 5月19日（月） | 16:20～17:10      | [第8章 貿易政策（基礎編）](slides/08貿易政策_基礎編.pptx)  [解答](answers/Excercise08.pdf)                                                                   | [Amiti et al. (2019)](slides/Amiti2019.pdf)                                                    |
 | 7    | 5月20日（火） | 15:20～16:10      | [第11章 グローバル化と格差](slides/11グローバル化と格差.pptx)   [解答](answers/Excercise11.pdf)                                                                  | [貿易と労働に関する最近の研究](slides/JSIE-Tanaka-50min.pptx)                                                 |
-| 8    | 5月20日（火） | 16:20～17:10      | [重力方程式](slides/trade2-03-gravity.pdf)                                                                         | [Silva & Tenreyro (2006)](slides/LogOfGravity.pptx); [Rでの推定方法](Gravity.md)                                   | 
+| 8    | 5月20日（火） | 16:20～17:10      | [重力方程式](slides/trade2-03-gravity.pdf)                                                                         | [Silva & Tenreyro (2006)](slides/LogOfGravity.pptx); [Rでの推定方法*](Gravity.md)                                   | 
 
-※ 6月2日（月）に試験。
+**メモ**
+
+* 試験問題の送付　⇒　5/29（木）まで
+* 試験の実施　⇒　6/2（月）（60分）
+* 採点結果の送付　⇒　6/23（月）まで
 
 
 ## 教科書
